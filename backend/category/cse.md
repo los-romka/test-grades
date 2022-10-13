@@ -1,36 +1,289 @@
-# Computer science & engineering
+# computer science & engineering
+
+### I1
+
+- [id](#4a804e4b-d375-4e18-ac27-97549d2e2896) Hello, my friend
 
 ### J1
 
-* Может работать с форматами данных: xml, json, yaml
+- [id](#dca50331-5695-4d1a-8388-265eb9e85909) Может работать с форматами данных: xml, json, yaml
+- [id](#58cb8094-7739-4ff1-8e7d-7e2c44c05d3f) Может работать с форматами данных: xml, json, yaml
+- [id](#73a79c31-c00b-4978-a31a-aff122762ce3) Может работать с форматами данных: xml, json, yaml
+- [id](#21b51277-f6f9-47a6-b749-98b13e9f96c8) Может работать с форматами данных: xml, json, yaml
+- [id](#6339559e-cb8b-43e0-83bf-4f5b75a3e5ae) Может работать с форматами данных: xml, json, yaml
+- [id](#787f5eec-5ccf-416d-afdb-d4f445d0ff13) Может работать с форматами данных: xml, json, yaml
+- [id](#98c37400-667c-4cbb-b045-c27ac1f48379) Может работать с форматами данных: xml, json, yaml
+- [id](#4da966fe-53ad-4802-b9bf-5ec03e4afda1) sasasa
+- [id](#45cfa8bc-184c-4e87-9ce3-9d2e2f16cbb9) Может работать с форматами данных: xml, json, yaml
+    - [id](#771974b9-9f8f-485c-a9a2-37467aa23051) sasassazxcs
+- [id](#71c7addd-d1e8-4801-9260-e8ded69a35e3) Может работать с форматами данных: xml, json, yaml
+    - [id](#f391885e-0738-4ef8-a457-29d7c5a6b5dc) dadwfczcZXxxbbb
+- [id](#367695eb-d433-4240-bbb3-e285f93b01fc) Может работать с форматами данных: xml, json, yaml
+- [id](#b6689ae9-6130-459f-80c0-64a9d4bc2881) Может работать с форматами данных: xml, json, yaml
+- [id](#e0afdf4f-e3a7-469c-92eb-dcd5426935d7) Может работать с форматами данных: xml, json, yaml
+- [id](#74429cbf-e2b3-4d55-b57f-bdacb75b3653) Может работать с форматами данных: xml, json, yaml
+- [id](#8d3d37d2-2bc4-4f01-9451-d5d17e71b54d) вывыы
+- [id](#f840238d-5c7f-4a3b-8b66-9143c3391e31) вывывы
+    - [id](#7a5593b9-a7e2-4a81-aaee-2bfc08e8121f) you cool
+    - [id](#02a60b96-cff3-466a-b99a-d81aebc6a8db) you realy cool
+- [id](#4f41d029-a551-4d9e-a980-f598b5e6cda2) dsdsds
 
 ### J2
 
-* Знает и понимает принципы ООП
-* Знает разницу между объектом и классом
+- [id](#cb82b223-6de3-4b78-b383-9722f1921eb1) Знает и понимает принципы ООП
+- [id](#65cae32c-5948-4a8c-ae28-9172f14a16b0) Знает и понимает принципы ООП
+- [id](#28bd83f5-3129-4921-ba45-8596f3731069) Знает и понимает принципы ООП
+- [id](#b3702d52-d041-4007-bd4f-c61609b0a099) Знает и понимает принципы ООП
+- [id](#9e1a110a-8219-428b-ba5e-6951ccd52ab3) Знает и понимает принципы ООП
+- [id](#2b840e20-fd84-4868-bcf5-6ee0866a988c) Знает и понимает принципы ООП
+- [id](#f49efc92-d39b-49da-a413-29e6a16361b0) Знает и понимает принципы ООП
+- [id](#10a36bcc-d04e-4668-bf98-77cc056c826c) Знает и понимает принципы ООП
+- [id](#e518551c-dbf3-4a2f-bdae-983b3b06a6dc) Знает и понимает принципы ООП
+- [id](#4ee1c6a5-30aa-4f32-9a3c-a449dab3930e) Знает и понимает принципы ООП
+- [id](#57c45552-b55a-454b-93d4-7318e0841019) Знает и понимает принципы ООП
+- [id](#fe0c1b69-fd9f-40c7-bfbf-c843f8943b00) Знает и понимает принципы ООП
+- [id](#2a6b6432-1858-4149-b62a-31d274644341) Знает и понимает принципы ООП
+- [id](#a6530931-fb91-4d03-88ca-1a3891e8b460) Знает разницу между объектом и классом
+- [id](#cdf06ddc-0936-49ab-b4b2-5dbabf9c9fdc) Знает разницу между объектом и классом
+- [id](#a9e181b5-598c-4048-9c46-4eef3a053ccc) Знает разницу между объектом и классом
+- [id](#fd642bcf-fb22-461b-915d-ec0d0bb41ac0) Знает разницу между объектом и классом
+- [id](#9492540e-9fd1-477f-9404-a741b8edcf71) Знает разницу между объектом и классом
+- [id](#baf97595-29df-495d-ad55-9eca5801f69a) Знает разницу между объектом и классом
+- [id](#fd8e8bb5-080c-4e41-a201-63d9e54bd130) Знает разницу между объектом и классом
+- [id](#82c216e0-5118-4256-9b17-9a2c41e8ea41) Знает разницу между объектом и классом
+- [id](#c6f487ad-7fd0-4f06-bf34-94ab666db739) Знает разницу между объектом и классом
+- [id](#8651135d-dd7d-4e36-b6ad-bca94e19191f) Знает разницу между объектом и классом
+- [id](#e5a24ed4-3161-4665-acb5-a059c46a6ebf) Знает разницу между объектом и классом
+- [id](#5503416b-85a6-4f1a-875d-7fe3a0e1b2e1) Знает разницу между объектом и классом
+- [id](#80e673e6-123b-4952-bc34-1e84db41cedc) Знает разницу между объектом и классом
 
 ### M1
 
-* Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#6c9ebe59-d845-4390-840f-9c470f9c6a73) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#a9529176-3884-4b4a-a5ba-a0fdd803f3e8) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#1f239002-a938-428b-a25f-fdc24674412c) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#aa78430f-1893-490a-9959-89164233a33e) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#79100b21-3d42-4b2c-9abb-b6105d9aa902) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#643945f1-6fff-4fe6-975b-1ec51695af4f) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#aed84555-cc9a-408e-8db3-bacd79cb5478) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#42efcc85-305d-4357-8e6a-980d06e357a2) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#65142dcd-bde5-4867-9980-15d8d33ce8db) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#d3e86070-be31-443d-83eb-1820a2f8c05d) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#71ff501f-ea96-4a88-a9b0-bdfdc238f957) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#94f14cc4-a371-4715-a9e1-fdcc25bece8d) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
+- [id](#51867708-9290-4a4e-819f-43b8751b076c) Знает, понимает и применяет принципы SOLID, KISS, DRY, YAGNI
 
 ### M2
 
-* Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
-* Знаком с различными способами аутентификации/авторизации в API
-    * Что за звери и чем отличаются
-    * Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
-      * OAuth
-      * Static Access Token
-      * JWT
-      * PASETO
-      * OpenID
-    * Статьи:
-      * https://docs.directus.io/reference/authentication/#access-tokens
-      * https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
-      * http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
-      * https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+- [id](#90df1127-35ca-4b1d-ab5d-9e6d85f9d4fe) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#f33fd204-1e4e-4af3-b27e-4f00ad44cd60) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#0b013488-dc64-490b-870d-c5265c42ca03) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#e4fa7857-7ee7-4e3a-9ed2-afbc7b9f9834) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#782a45e3-216c-4f68-9ac6-e31bf9939a73) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#ddf835da-767c-4a7a-9668-2dc691e315b1) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#ba9957ae-7df3-4522-888a-543d44588e74) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#d415ef95-052b-45a0-8b58-5066dbf83910) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#d05199a6-fbe3-4a55-a1b7-c75c2acf9372) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#71cc4615-d472-4841-a5a1-3a96e6662377) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#6e9125e5-8ece-4a2d-9f90-ab1b2f5fc79b) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#f49c6302-c769-4470-94b5-9d3e1cafe92f) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+- [id](#713a39c9-83f2-4ef4-8217-e1b140e32ad5) Участвует в разработке библиотек в реестрах пакетов (satis, artifactory, private npm и тд)
+    - [id](#92d1877c-6e47-4f08-b87c-0344c72d5df8) Что за звери и чем отличаются
+        - [id](#9c19c9e4-d7c1-480f-9126-640353144d9d) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#8b6956d0-dbae-436d-8ab5-7f72144a263f) OAuth
+        - [id](#459d74e4-bf21-4c11-926c-69cea531b106) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#76bdb62e-7cca-4ad6-82b7-cf28ae16830c) JWT
+        - [id](#6b4f48ea-867c-42ad-98d3-b7c58871affb) OpenID
+    - [id](#998d4dd9-ba7b-457b-b554-7f0bb14851bf) Что за звери и чем отличаются
+        - [id](#372e04ee-c03a-4338-914a-823b92a45dfa) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#590a2340-bce8-4513-87b9-e7fecd9d0a79) OAuth
+        - [id](#6972c298-0bf9-4b18-9f0a-cc17eecd9326) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#15aa7fde-53dd-46e8-aecb-5931b8c8f898) JWT
+        - [id](#c4da131a-4083-4b24-b734-f6e6657555ef) OpenID
+    - [id](#6e3cb42f-3f77-4a83-a9b8-fbb541920236) Что за звери и чем отличаются
+        - [id](#5c243fc0-7f0b-468e-b2d2-7766c93be1a8) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#ece83518-941d-4ee8-a17d-959c8c73680d) OAuth
+        - [id](#3dabd9df-0d34-414d-8465-7719d24839d4) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#d3af4f3b-0ca1-4a0d-94d7-4a66144d75f1) JWT
+        - [id](#8abd8ed0-68f6-4ab2-9f2f-085d7461f652) OpenID
+    - [id](#ed4a1a88-2f8a-4e76-ac2c-9e0b392e4990) Что за звери и чем отличаются
+        - [id](#e7d1a360-e9b8-49fb-86ff-bc85149651a4) https://docs.directus.io/reference/authentication/#access-tokens
+    - [id](#ca871ca4-2082-4003-aeae-a99641c2834b) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#bc3f6138-6886-4160-83b2-ca98d4909209) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#bd3a78d8-d304-4da3-a6a9-fa655d26fa93) Static Access Token
+        - [id](#99252cd7-f707-4c6c-801d-439faa031604) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#9d031e23-5a22-4828-85d6-e2d5b9627bed) PASETO
+- [id](#b5f11991-1581-4450-a5e8-70e564cdd0dd) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#f46b87f1-aae0-4007-b79e-4bcc6413a59c) Статьи:
+    - [id](#0fa79f85-526f-418e-bf50-a0605868537c) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#be1050e2-4b28-4fad-82f0-dafa93b41868) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#8a8c94f5-88ba-4e68-bae5-de0847bdf5ea) Static Access Token
+        - [id](#cb38250f-0672-4585-9ed5-426093e27a4e) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#45ceea10-42c2-4117-a003-e0a8e8a8136a) PASETO
+- [id](#5f31ac8f-a6fb-460f-aa4e-553126beff73) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#edc234d7-1cf7-41ee-ae47-c7e6e9fc8908) Статьи:
+    - [id](#e9e50fbf-a592-4412-b29b-58be07c1b86e) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#98d24919-0be9-4454-ae1e-0b5554827c3e) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#9a639574-c9a4-4e2b-8c22-7a1fe834f834) Static Access Token
+        - [id](#1dcd5bf8-1a5b-4b1f-ae3a-c1385ec2269e) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#c3c5d7cb-c6f8-4e45-8485-4a3122041a27) PASETO
+- [id](#714260d4-56ad-49ab-9c8b-c33ca2985ffd) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#66ce548a-041a-45c4-b9f7-63f1c628d7db) Статьи:
+    - [id](#021ba1b9-beca-4992-a607-198f122e7fe0) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#35dcb0b2-15c6-4f07-9f6a-d66567808c32) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#937b01b6-a589-4d05-b4e0-d37d52e6b2c0) OAuth
+        - [id](#3d200b6f-28a2-48ae-b176-7fbb05b70061) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#98faa8da-f644-4c25-b6a7-aa1cbb4f5762) JWT
+        - [id](#2ce21be3-1a4a-43d1-a1ac-0d85fd94cd77) OpenID
+    - [id](#48a5b5ca-acdc-4d7f-b3ef-e97e45de0555) Что за звери и чем отличаются
+        - [id](#a2ce0703-f8dc-4c37-a058-818fac5ee419) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#309e0773-694a-4a40-805e-1c725fabce3b) OAuth
+        - [id](#c9eb5377-990e-4341-ab13-6ebdba7aab04) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#b3ab5e49-237f-4aeb-9307-f9a67e77f477) JWT
+        - [id](#a1e21c8d-4ea3-40ac-a055-1302f3b0c910) OpenID
+    - [id](#5ce912ca-e3d7-4d95-88e0-bcbcba7e3d8f) Что за звери и чем отличаются
+        - [id](#004160d2-8f1c-40af-9b8a-d2eff90c76d4) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#a1c5b52d-8491-4b89-9bf2-198cd5eaa1bd) OAuth
+        - [id](#2e8e571c-7eb3-46d4-a551-563fbb29d4c8) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#769f76b2-20b5-439e-89e2-b153f8a04caa) JWT
+        - [id](#398d2e72-328a-476e-9155-3c7099642c7c) OpenID
+    - [id](#ed3ce1cc-6849-45c4-bfeb-b89dcc6543fe) Что за звери и чем отличаются
+        - [id](#5581ed48-cfc1-4105-85f5-5c0cb9572ac8) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#5b963e6e-8722-4910-aa81-d3e8d956a45f) OAuth
+        - [id](#36d38ff0-4039-41cd-a372-4a681ed73217) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#8200d956-e578-45f1-88e8-5c5572304d5c) Static Access Token
+        - [id](#80a874a8-1957-43b1-a0df-00178d55bed1) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#7b5d9097-9669-4d72-967a-52f9593952eb) PASETO
+- [id](#f7ed67c0-fb61-48ac-b518-43125767c32c) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#fe713aa4-2e3f-483e-a05d-3b36a92d0d7c) Статьи:
+    - [id](#06420116-0153-4db3-8107-6a8c05b68971) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#bb173478-8f97-4288-88b5-d6f0c49596b3) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#675abbc6-8417-4cdd-a856-2aa3f6d68cd8) Static Access Token
+        - [id](#5de79d09-a7da-4401-a52b-22201b0bca85) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#c46ca09a-6c08-4f6a-8bde-2134a95e1da0) PASETO
+- [id](#ffffc1c6-4e95-42fa-870e-1c0a8fa5738e) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#1a315428-dde4-4081-a96c-c265a5ef5e2c) Статьи:
+    - [id](#a422ad5e-8182-4c52-9aa7-6ceca9ad12f9) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#c6ad5573-8311-4dd7-a45a-6986941b044b) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#c3caf082-8bae-44c6-84bc-97abcf5b0a44) Static Access Token
+        - [id](#b1185eef-d530-451e-a2f2-b551aae3b677) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#4343a177-38a8-4a95-b0d9-7e11f46cd2d1) PASETO
+- [id](#5dd5c6dc-7f29-4fb8-98f6-377100e9b374) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#56d84aed-8560-467b-9461-03261242d7f1) Статьи:
+    - [id](#cbe97b73-979d-4eb8-b1fa-71f1f6440b0b) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#8845b6df-26a6-4b16-b6fe-becc85edac96) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#bf1fb3ec-295d-4e74-87ee-ed7afe6cb87e) Static Access Token
+        - [id](#263f1137-2188-40ff-89fb-d823e2fc2c0f) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#438b8a75-ed95-4a5e-bce6-aa07d445d5a1) JWT
+        - [id](#1f69a43a-407a-4f0c-9e5e-a0a163ad2678) OpenID
+    - [id](#200d0c97-3cd2-4579-a837-600db24a2b71) Что за звери и чем отличаются
+        - [id](#0aaca291-c1c7-48a5-b509-970be113ebc1) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#1f91257b-6a02-4320-9a1e-ff90554b1d34) OAuth
+        - [id](#cd3b9047-522c-4d04-a52c-5024ddd2bd35) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#731bffcf-5c1b-4e1c-a611-da0da05fc0c3) JWT
+        - [id](#d1a3e343-19d5-479b-8a4c-76ca90c7df23) OpenID
+    - [id](#3f5e6949-54e1-485d-9270-99d5c514dcd5) Что за звери и чем отличаются
+        - [id](#c42a917f-3535-4d52-abbd-31e327fbe2ee) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#41051b77-9edb-4715-87a6-3aafd29db740) OAuth
+        - [id](#e95ff843-dfa7-40d8-8a1b-41ff17f9112a) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#6a2ad4ee-98ca-438a-905e-6fbcce704356) JWT
+        - [id](#e9baadea-eb3d-44e1-a120-bf985f1690a7) OpenID
+    - [id](#055d50e0-4bf7-4c31-971a-4fa6a6cd530d) Что за звери и чем отличаются
+        - [id](#1779447b-0bea-4c5d-8ae7-2f98ba1a8a95) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#1581d973-9c11-490d-b03e-67c3d23e8d10) OAuth
+        - [id](#59c35b49-b3db-45d5-9f2f-22285b9a63ae) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#bf1d990f-e517-4e42-a782-6d9e087abbb0) JWT
+        - [id](#36951128-5e43-40ab-a1d6-f52e3114679a) PASETO
+- [id](#97ba2b10-c38e-472e-aeed-9f016757b80d) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#b0f542aa-c891-4741-9105-d296c67a5611) Статьи:
+    - [id](#8ec53b13-a626-4c30-b003-e41042f4744c) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#9b2867bb-c327-4084-8483-04c254487857) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#e3da92e3-8691-4290-b567-90bcf2f0ed35) Static Access Token
+        - [id](#4a200f59-b8fe-4697-9507-fe400b9e9262) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#7be2d809-4594-40e7-9edb-b75ce5415c8d) PASETO
+- [id](#c5e1c544-30b1-4575-93a7-4278997202cb) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#93291a08-d4e1-47c9-be18-d1e9fb30588f) Статьи:
+    - [id](#7afdf2b1-3a4f-430d-b0df-7a5b107a1133) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#1bceac14-b4b1-4eaf-b70a-daf104a9b20e) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#095f32a3-52d3-4855-aa60-7d54346dcb35) Static Access Token
+        - [id](#6da31a1a-6aa8-4433-9387-640e7070822f) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#b0377eff-aeaa-4460-8009-9456f2b32353) PASETO
+- [id](#7de8aac4-cf91-41a2-9f61-77aed65f3dc3) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#86355bf6-205c-402c-aa82-8855f571de79) Статьи:
+    - [id](#6f625933-8c49-4a29-8893-434e7a99c439) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#5904354c-fa6e-41a6-8063-4d835aacbd53) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#f076689b-17bb-4352-b70c-8f33e6f5062a) Static Access Token
+        - [id](#9d310dee-766b-40e8-90d4-63ca49709b3e) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#1caf9147-058c-4e52-afe4-49c0523231ed) PASETO
+        - [id](#ad1f497c-73e8-49e5-82b9-14accf4ce3d5) OpenID
+    - [id](#534c4b5e-4516-4f8d-a2a8-d8eb2bb7a21d) Что за звери и чем отличаются
+        - [id](#a40cfab1-292e-48e7-9d29-2f3fb59dd83f) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#357d44f9-2dec-40ea-8fa4-b8ee16e5f30c) OAuth
+        - [id](#7c5083e6-56d0-46ca-98a4-4e91eb8a8cc7) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#53e33031-0b4e-438a-8b9a-5e33b50fce57) JWT
+        - [id](#526e92f3-868e-4a1a-8e76-3708a2cb3df3) OpenID
+    - [id](#3e1245d4-e355-4b89-9720-29f98d900287) Что за звери и чем отличаются
+        - [id](#4bc04c68-80e1-4a1b-943d-795343344e2a) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#a39aceeb-3e3f-4dcd-94fd-63a06ed95817) OAuth
+        - [id](#f7dea251-c614-4d9a-9bd3-2bb805f1e5f4) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#61766636-5da9-4f9a-aaca-56e6f13b1722) JWT
+        - [id](#ac796f75-99cb-4d1e-bcf3-cec1c649aefc) OpenID
+    - [id](#c9a4a3f0-ba1c-4027-aa31-610bb759f8f8) Что за звери и чем отличаются
+        - [id](#2ec71feb-c742-48c2-a824-740ed55e9ebe) https://docs.directus.io/reference/authentication/#access-tokens
+        - [id](#ae7d2f8d-dbfd-44f9-a145-02511b9bf49d) OAuth
+        - [id](#b1821e12-8607-4f84-97c0-c7c014405a87) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+        - [id](#1da8e724-4014-4714-92dc-34742a8fe739) JWT
+        - [id](#d8165c86-534e-41ac-bbc4-4513191a5609) OpenID
+- [id](#499f02cb-e0b2-4f89-b3e2-bc7c39396d36) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#affb9744-e51e-411f-8e43-a189634d49d7) Статьи:
+    - [id](#f817362c-f723-475c-87eb-0150f7e0fe93) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#0ae62a0f-c479-46b8-8be0-ac4f03e88b60) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#a66bcf20-3acb-4089-bbcb-880f55519336) Static Access Token
+        - [id](#517c1803-141a-49d4-b8ab-feb66ba8bafd) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#81d34bde-5142-4b18-b79d-c3a079ebfa8e) PASETO
+- [id](#7e179e9f-8153-4476-9aed-303f65d39f00) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#b17c56ce-69ac-4256-a96a-cace89def0af) Статьи:
+    - [id](#dc716b19-24c2-43f5-92f3-4c2577329b78) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#1342b576-8623-419d-bca1-9281ad22d670) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#5bcce1f4-3b53-4eb5-be3e-01c29ead18c6) Static Access Token
+        - [id](#dc2ed338-2f58-4ebf-9c44-577ea755d489) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#808ae404-9ed9-478a-bfd4-35cf7cea9f89) PASETO
+- [id](#7b229c8f-cbc0-40cd-8158-26e7d16407a8) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#cdd1a346-659e-49af-b89c-793b30db606e) Статьи:
+    - [id](#26fc703d-a476-4faf-8e96-083ccc761a50) Есть опыт работы как клиента или сервера с одним или несколькими представителями из списка
+        - [id](#3336457f-e217-4aac-a360-e833d692e0ce) https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+        - [id](#0c239045-cb48-4e82-97a2-973a0891f7e2) Static Access Token
+        - [id](#9a753a48-1eb0-4b75-8889-e2976a2346a9) https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc ; перевод: https://m.habr.com/ru/company/flant/blog/475942/
+        - [id](#81b19893-9c0c-452c-aa29-a47559421a89) PASETO
+- [id](#f68e1628-b07d-45a6-90eb-c04798edf5f0) Знаком с различными способами аутентификации/авторизации в API
+    - [id](#a3c885b1-aedb-42c7-a175-8c2e94cc5069) Статьи:
 
 ### M3
 
-* Имеет представление о принципе CQRS и CQS
-* Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#ebf62191-23da-4477-b681-8aa7a0d631b7) Имеет представление о принципе CQRS и CQS
+- [id](#dc7256ff-d08d-4072-83e3-244158d0f3ca) Имеет представление о принципе CQRS и CQS
+- [id](#26bd17da-8947-4104-9d2e-bfd9ec010fd1) Имеет представление о принципе CQRS и CQS
+- [id](#2ff6b830-d911-45a0-bba1-5ae0cb2789dc) Имеет представление о принципе CQRS и CQS
+- [id](#eb11aa01-32bd-4ec7-be66-8e410efd9534) Имеет представление о принципе CQRS и CQS
+- [id](#b13ec428-7b7f-48d5-a869-0171cac0aba8) Имеет представление о принципе CQRS и CQS
+- [id](#1d91d84b-6bc2-4a82-a2a6-e07958d0cb3a) Имеет представление о принципе CQRS и CQS
+- [id](#de28e917-907a-4d6a-8ba8-146b5c7f1afa) Имеет представление о принципе CQRS и CQS
+- [id](#1053a4c7-2678-4551-a26f-7587894dd50d) Имеет представление о принципе CQRS и CQS
+- [id](#97c55f5d-c461-4715-b01f-481a51fa1a73) Имеет представление о принципе CQRS и CQS
+- [id](#45e196a1-0e6e-41f4-a00a-57d7b586d642) Имеет представление о принципе CQRS и CQS
+- [id](#62ae146c-77dc-42ca-9bc0-b15452e2cbf2) Имеет представление о принципе CQRS и CQS
+- [id](#76e4a982-feb5-4ddc-992c-0b5e0ece261f) Имеет представление о принципе CQRS и CQS
+- [id](#d57f2d48-bc3a-4d5d-8883-e66f1f402a5a) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#56579e6f-1cb7-419f-a6b7-1443e5f1fdfa) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#f63f7e1d-03be-4298-809b-3373f9212e1a) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#731b9dc1-5b1e-4297-9073-b7ff8513bf94) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#addb3107-b211-4dff-bfbc-1fa9eb190de0) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#3e73f810-b482-42cc-8325-85f22acaf084) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#d28ef97d-f86b-4165-a3a4-895456cdd013) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#89ba5031-fcb1-427e-9f66-7ce83a4d847c) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#40b06a59-4932-4d25-8030-98556cdaa49c) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#728e7150-8881-444a-9ac3-4a1d75225b70) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#3f654bfd-ff43-4338-a026-9e285b708fc4) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#48ce3c64-82e5-4955-9a1a-a701e3455f98) Умеет взаимодействовать со всем стеком, применяемом в проекте
+- [id](#57f223b4-d8fd-4b32-bdef-01eb225d1c35) Умеет взаимодействовать со всем стеком, применяемом в проекте
+
