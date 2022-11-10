@@ -19,6 +19,8 @@
     - [id](#92d1877c-6e47-4f08-b87c-0344c72d5df8) Что за звери и чем отличаются
         - [id](#9c19c9e4-d7c1-480f-9126-640353144d9d) https://docs.directus.io/reference/authentication/#access-tokens
         - [id](#8b6956d0-dbae-436d-8ab5-7f72144a263f) OAuth
+        - SHA-1
+        - MD-5
         - [id](#459d74e4-bf21-4c11-926c-69cea531b106) http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
         - [id](#76bdb62e-7cca-4ad6-82b7-cf28ae16830c) JWT
         - [id](#6b4f48ea-867c-42ad-98d3-b7c58871affb) OpenID
