@@ -3,7 +3,7 @@
 [PHP](backend/README.md)
 
 ## Сборка
-собрать все:
+Собрать все:
 ```bash
 make all
 ```
